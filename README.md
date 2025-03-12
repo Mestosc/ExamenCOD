@@ -4,7 +4,7 @@
 
     Para crear el fork vamos al repositorio de Github correspondiente en este caso [Este de aqui](https://github.com/damiancastelao/ExamenCOD), una vez hecho eso nos aparecera una ventana donde podemos rellenar info a efectos de lo que hacemos aqui desticaremos el tick que indica copiar solo la rama main
     ![Imagen de la pantalla para poner un fork](image-1.png)
-    >[!WARNING]
+    > [!WARNING]
     > ese tick que aparece diciendo `Copy the main branch only` hay que clickarlo y sacarlo para poder hacer el ejercicio
 
 2. Procedere a añadir codigo a la rama interfaz para resolver esta issue que he puesto, no la voy a resolver de verdad que no se hacerlo pero bueno [Issue](https://github.com/Mestosc/ExamenCOD/issues/1), añadire varias cosas para hacer el commit, debido a un asunto que no vi al trabjar con otra rama hice el commit con el close varias veces perdon por eso
