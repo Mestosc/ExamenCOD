@@ -23,6 +23,6 @@ Aqui estan los dos pull request:
 
 - [Pull Request de Datos](https://github.com/Mestosc/ExamenCOD/pull/2)
 - [Pull Request de Interface](https://github.com/Mestosc/ExamenCOD/pull/3)
+- [Pull request extra](https://github.com/Mestosc/ExamenCOD/pull/5/)
 
-Aqui proceder a exponer 
-
+El pull request extra es para arreglar un problemilla que tuve con las cosas en las ramas para arreglar un conflicto con datos que acabo siendo diferente debido a unos asuntos
