@@ -8,3 +8,7 @@
 
 3. Ahora que he finalizado la parte de la interfaz he decidido añadir cosas a la rama datos para ir haciendo los commits
 
+4. Ahora hago un Pull Request desde la rama datos hasta mi rama main para lo cual debo ir a la siguiente parte 
+![Imagen de como se configura el pull request](image.png)
+Ahora debo ir a donde pone damian castelao y en el desplegable que se abre elejir mi repositorio y cuando me ponga solamente interface o datos y main se que estoy en mi repositorio
+
