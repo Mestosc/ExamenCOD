@@ -9,7 +9,7 @@ public class Interface {
      */
     public void dialog() {
         JOptionPane.showMessageDialog(null, "Hola Examen!");
-        JOptionPane.showMessageDialog(null, "Boton con forma de media luna");
+        JOptionPane.showMessageDialog(null, "Boton con forma de media luna 4");
  }
     /**
      * Dialogo con mensaje de error
