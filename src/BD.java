@@ -24,7 +24,7 @@ public class BD {
         try {
             DriverManager.getConnection("jdbc:mysql://localhost:3306/Ex", "root", "root").close();
         } catch (SQLException e) {
-            e.printStackTrace();
+            e.printStackTrace(); // Refactorizando....
         }
     }
 
