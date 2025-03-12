@@ -9,6 +9,5 @@ public class Main {
     public static void main(String[] args) {
         // Imprime un mensaje
         System.out.println("Hola Examen!");
-        System.out.println("Boton de media luna 3 yu");
     }
 }
