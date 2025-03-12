@@ -17,7 +17,7 @@
 ## Notas extras
 Ahora debo ir a donde pone damian castelao y en el desplegable que se abre elejir mi repositorio y cuando me ponga solamente interface o datos y main se que estoy en mi repositorio, haciendo eso tambien para la rama Interface borre el ultimo commit que hice en local antes de subir y luego ya lo deje subido
 
-Informo que en algun momento me hice el lio por ejemplo mezclando la main en Interface cuando me salio en el pull que habia conflictos no lei bien y no vi que se podia hacer igual pero a parte de eso no hay mucha complicacion.
+Informo que en algun momento me hice el lio por ejemplo mezclando la main en Interface cuando me salio en el pull que habia conflictos no lei bien y no vi que se podia hacer igual pero a parte de eso no hay mucha complicacion. Tambien usando `git tag -a v1.0` establezco un tag a version 1.0 en el ultimo commit, luego subo la etiqueta haciendo un `git push origin nombre_etiqueta`
 
 Aqui estan los dos pull request:
 
