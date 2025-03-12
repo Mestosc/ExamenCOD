@@ -8,6 +8,6 @@ public class Main {
      */
     public static void main(String[] args) {
         // Imprime un mensaje
-        System.out.println("Hola Examen! Iniciando conexion.... Conexion establecida.....");
+        System.out.println("Hola Examen! Iniciando conexion.... Conexion establecida......");
     }
 }
