@@ -25,4 +25,7 @@ Aqui estan los dos pull request:
 - [Pull Request de Interface](https://github.com/Mestosc/ExamenCOD/pull/3)
 - [Pull request extra](https://github.com/Mestosc/ExamenCOD/pull/5/)
 
-El pull request extra es para arreglar un problemilla que tuve con las cosas en las ramas para arreglar un conflicto con datos que acabo siendo diferente debido a unos asuntos
+El pull request extra es para arreglar un problemilla que tuve con las cosas en las ramas para arreglar un conflicto con datos que acabo siendo diferente debido a unos asuntos, 
+
+> [!WARNING]
+> informo los commits y cosas que aparecen a nombre de otra cuenta son mios es que tengo el github personal configurado y bueno como no lo tenia configurado a nivel del repositorio local con la cuenta del colegio pues se mezclo
