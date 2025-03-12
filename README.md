@@ -6,5 +6,5 @@
 
 2. Procedere a añadir codigo a la rama interfaz para resolver esta issue que he puesto, no la voy a resolver de verdad que no se hacerlo pero bueno [Issue](https://github.com/Mestosc/ExamenCOD/issues/1), añadire varias cosas para hacer el commit, debido a un asunto que no vi al trabjar con otra rama hice el commit con el close varias veces perdon por eso
 
-3. Ahora hare cosas en la principal
+3. Ahora que he finalizado la parte de la interfaz he decidido añadir cosas a la rama datos para ir haciendo los commits
 
